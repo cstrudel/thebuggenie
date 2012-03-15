@@ -13,3 +13,4 @@
 	
 	// Trigger the framework's start function
 	TBGContext::go();
+?>
